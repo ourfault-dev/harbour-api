@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/HarbourApi/HarbourApi.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/HarbourApi.Tests/HarbourApi.Tests.csproj" />
+  </Folder>
+</Solution>
